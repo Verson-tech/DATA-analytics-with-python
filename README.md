@@ -62,7 +62,11 @@ Then, start Jupyter Notebook:
 jupyter notebook
 ```
 
+![Project Logo](terminal.png)
+
 This will open a web interface where you can navigate to the notebooks in this repository.
+
+![Project Logo](data_analysis_plots.png)
 
 Clone the repository and follow the instructions in each notebook or script to explore different data analysis workflows.
 
